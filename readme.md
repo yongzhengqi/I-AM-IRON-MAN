@@ -29,7 +29,7 @@ python3 i_am_iron_man.py -e lib/models/Mark42.obj -m lib/models/mobilenet.model 
 
 * Charles Young: [Qizy's Sites](https://qizy.tech/)
 * Zhenbang You
-* Chengzhi Yi
+* Zhiyi Cheng
 
 ## License
 
